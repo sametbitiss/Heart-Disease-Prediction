@@ -1,5 +1,7 @@
 Kalp Yetmezliği Tahmini - Kolektif Öğrenme (Ensemble Learning)
+
 Bu proje, makine öğrenmesi yöntemlerini kullanarak kalp yetmezliği riskini tahmin etmeyi amaçlayan bir sınıflandırma çalışmasıdır. Proje kapsamında Kolektif Öğrenme (Ensemble Learning) algoritmaları kullanılmış ve performansları karşılaştırılmıştır.
+
 📊 Proje Özeti
 Veri Seti: kalp_yetmezliği.csv (Kalp hastalığına dair klinik özellikler)
 Problem Türü: İkili Sınıflandırma (Binary Classification)
